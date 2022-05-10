@@ -1,7 +1,7 @@
 ### Hi there 👋 Nice to see you.
 
 <p>Welcome to my page! </br> I'm Kwang min, Front-end developer from <img src="
-https://www.flaticon.com/free-icons/korea" width="13"/> <b>South Korea</b>.</p>
+https://www.flaticon.com/free-icons/korea" /> <b>South Korea</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
