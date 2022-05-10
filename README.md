@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to see you.
 
-<p>Welcome to my page! </br> I'm Kwang min, Front-end developer from <img alt="South-Korea" src="/images/south-korea.png" width=15/> <b>South Korea</b>.</p>
+<p>Welcome to my page! </br> I'm Kwang min, Front-end developer from <img alt="South-Korea" src="/images/south-korea.png" width=23/> <b>South Korea</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
